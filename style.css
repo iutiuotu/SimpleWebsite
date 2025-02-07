@@ -24,6 +24,7 @@ h1{
     color: black;
     font-weight: bold;
     flex: 1;
+    padding: 10px;
 }
 footer{
     background-color: gray;
