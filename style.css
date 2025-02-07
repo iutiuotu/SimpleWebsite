@@ -1,8 +1,18 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+}
 h1{
     font-family: cursive;
+    text-align: center;
 }
 .nav-links a{
     text-decoration: none;
     color: black;
+   
+}
+.nav-links{
     display: flex;
 }
