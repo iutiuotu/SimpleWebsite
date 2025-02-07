@@ -7,9 +7,9 @@
     align-items: center;
     justify-content: center;
     background-color: aliceblue;
+    padding: 20px;
 }
 h1{
-    font-family: cursive;
     text-align: center;
 }
 .nav-links a{
@@ -27,7 +27,7 @@ h1{
     color: black;
     font-weight: bold;
     flex: 1;
-    padding: 10px;
+    font-size: 30px;
 }
 footer{
     background-color: rgb(78, 78, 78);
@@ -37,11 +37,36 @@ footer{
 
 }
 main{
-    background-color: rgb(221, 221, 220);
+    background-color: rgb(240, 240, 240);
+    padding: 30px;
 }
 main ul{
     list-style-type: none;
 }
 main h1{
-    padding-top: 50px;
+    padding: 50px;
+    font-size: 50px;
+}
+section{
+    margin: 30px;
+    background-color: azure;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 1px 10px 10px rgb(211, 211, 211);
+}
+section h2{
+    font-size: 40px;
+    padding: 10px;
+}
+section p{
+    padding: 20px;
+    font-size: 30px;
+    font-style: italic;
+}
+section ul{
+    font-size: 30px;
+    padding: 20px;
+}
+section ul li{
+    padding-bottom: 10px;
 }
