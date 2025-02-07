@@ -1,7 +1,7 @@
 h1{
     font-family: cursive;
 }
-nav-links{
+.nav-links{
     text-decoration: none;
     color: black;
     display: flex;
