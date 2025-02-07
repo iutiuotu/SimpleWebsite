@@ -10,7 +10,6 @@
     padding: 20px;
 }
 h1{
-    font-family: cursive;
     text-align: center;
 }
 .nav-links a{
@@ -46,6 +45,7 @@ main ul{
 }
 main h1{
     padding: 50px;
+    font-size: 50px;
 }
 section{
     margin: 30px;
